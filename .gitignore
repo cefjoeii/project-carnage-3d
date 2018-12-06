@@ -1,0 +1,15 @@
+# Ignore everything
+
+*
+!*/
+
+# Except
+
+!.gitignore
+!.gitattributes
+!*/Assets/Scripts/***
+!README.md
+
+# Ignore .meta
+
+*.meta
